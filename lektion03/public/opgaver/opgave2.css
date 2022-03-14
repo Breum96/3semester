@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+
+td{
+    border: 3px solid blue;
+    width: 50%;
+}
+
+a{
+    text-decoration: underline;
+}
