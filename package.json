@@ -1,12 +1,24 @@
 {
   "name": "3semester",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breum96/3semester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Breum96/3semester/issues"
+  },
+  "homepage": "https://github.com/Breum96/3semester#readme",
+  "description": ""
 }
